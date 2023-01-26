@@ -15,7 +15,7 @@
   <img align="center" alt="Pedro-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
 </div>
 
-# Confira alguns dos meus projetos
+### Confira alguns dos meus projetos
 
 - Torne Verdadeiro (https://wdpedroborges.github.io/torne-verdadeiro)
 - Binary Wars (https://wdpedroborges.github.io/binary-wars)

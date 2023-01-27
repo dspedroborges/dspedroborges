@@ -2,7 +2,7 @@
 
 - 🔭 Hoje sou programador JavaScript
 - 🌱 Estou aprendendo Machine Learning
-- 📫 Entre em contato comigo pelo email: xpedrostewart@gmail.com
+- 📫 Entre em contato comigo pelo email: tpedroborges@gmail.com
 - ⚡ Meu site é https://wdpedroborges.github.io/
 
 <div style="display: inline_block"><br>

@@ -1,7 +1,6 @@
 ### Olá, seja bem-vindo à minha página do Github 👋
 
-- 🔭 Hoje sou programador JavaScript
-- 🌱 Estou aprendendo Machine Learning
+- 🔭 Sou programador JavaScript
 - 📫 Entre em contato comigo pelo email: tpedroborges@gmail.com
 - ⚡ Meu site é https://wdpedroborges.github.io/
 

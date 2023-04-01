@@ -1,4 +1,5 @@
 ### Welcome to my Github page 👋
+<img src="https://img.shields.io/github/stars/wdpedroborges?style=social"/>
 
 - 🔭 I'm a Front-end developer
 - 📫 My email is tpedroborges@gmail.com

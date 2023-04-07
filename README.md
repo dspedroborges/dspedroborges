@@ -7,7 +7,9 @@
 - You can access all my React.js projects Live Demo by putting the name of the repo at the end of my website URL. For example:
 
 -- https://wdpedroborges.github.io/beatles-quiz
+
 -- https://wdpedroborges.github.io/guitar-scales
+
 -- https://wdpedroborges.github.io/infomygit
 
 <div style="display: inline_block"><br>

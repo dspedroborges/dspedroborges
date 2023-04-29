@@ -6,7 +6,7 @@
 - ⚡ My website is https://wdpedroborges.github.io/
 - You can access all my React.js projects Live Demo by putting the name of the repo at the end of my website URL
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; background-color: #fff; padding: 1rem; border-radius: 1rem"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

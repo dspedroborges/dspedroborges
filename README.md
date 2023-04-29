@@ -16,4 +16,5 @@
   <img align="center" alt="Pedro-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Pedro-Vite" height="30" width="40" src="https://vitejs.dev/logo.svg">
   <img align="center" alt="Pedro-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Pedro-NextJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
 </div>

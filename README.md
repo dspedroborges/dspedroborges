@@ -1,11 +1,10 @@
 ### Welcome to my Github page 👋
-<img src="https://img.shields.io/github/stars/wdpedroborges?style=social"/>
-
-<img align="center" alt="Pedro-HTML" src="https://media.licdn.com/dms/image/D4D16AQGQyinzIIQ8uQ/profile-displaybackgroundimage-shrink_350_1400/0/1683539571816?e=1689206400&v=beta&t=TopZClwqoWfHAoSwp33bSEQ8uPC7neKCv91fjWAJi7A">
 
 - 🔭 I'm a Front-end developer
 - 📫 My email is tpedroborges@gmail.com
 - ⚡ My website is https://wdpedroborges.github.io/
+
+<img align="center" alt="Pedro-HTML" src="https://media.licdn.com/dms/image/D4D16AQGQyinzIIQ8uQ/profile-displaybackgroundimage-shrink_350_1400/0/1683539571816?e=1689206400&v=beta&t=TopZClwqoWfHAoSwp33bSEQ8uPC7neKCv91fjWAJi7A">
 
 <div style="display: inline_block; background-color: #fff; padding: 1rem; border-radius: 1rem"><br>
   <img align="center" alt="Pedro-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

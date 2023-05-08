@@ -35,5 +35,7 @@
   <img align="center" alt="Pedro-Vite" height="50" width="60" src="https://vitejs.dev/logo.svg">
   <img align="center" alt="Pedro-Tailwind" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
+  
+---
 
 ![Snake animation](https://github.com/wdpedroborges/wdpedroborges/blob/output/github-contribution-grid-snake.svg)

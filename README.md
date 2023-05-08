@@ -1,6 +1,5 @@
-# Welcome to my Github page 👋
 ### 🔭 I'm a Full-stack developer
-### ⚡ My website is https://wdpedroborges.github.io/
+### ⚡ Checkout my portfolio at: https://wdpedroborges.github.io/
 
 ---
 

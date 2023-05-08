@@ -38,5 +38,3 @@
 </div>
 
 ![Snake animation](https://github.com/wdpedroborges/wdpedroborges/blob/output/github-contribution-grid-snake.svg)
-
-  

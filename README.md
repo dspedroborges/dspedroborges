@@ -1,8 +1,8 @@
-## Welcome to my Github page 👋
+# Welcome to my Github page 👋
 
-- 🔭 I'm a Full-stack developer
-- 📫 My email is tpedroborges@gmail.com
-- ⚡ My website is https://wdpedroborges.github.io/
+## 🔭 I'm a Full-stack developer
+## 📫 My email is tpedroborges@gmail.com
+## ⚡ My website is https://wdpedroborges.github.io/
 
  ---
 

@@ -1,8 +1,12 @@
 # Welcome to my Github page 👋
+### 🔭 I'm a Full-stack developer
+### ⚡ My website is https://wdpedroborges.github.io/
 
-## 🔭 I'm a Full-stack developer
-## 📫 My email is tpedroborges@gmail.com
-## ⚡ My website is https://wdpedroborges.github.io/
+<div>
+<a href="https://instagram.com/pedrossborges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:tpedroborges@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedroborges11" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 <img align="center" alt="Pedro-HTML" src="https://media.licdn.com/dms/image/D4D16AQGQyinzIIQ8uQ/profile-displaybackgroundimage-shrink_350_1400/0/1683539571816?e=1689206400&v=beta&t=TopZClwqoWfHAoSwp33bSEQ8uPC7neKCv91fjWAJi7A">
 

@@ -1,5 +1,5 @@
 ### 🔭 I'm a Full-stack developer
-### ⚡ Portfolio at: https://pedroborges.vercel.app/
+### ⚡ Portfolio at: <a href="https://pedroborges.vercel.app/" target="_blank">https://pedroborges.vercel.app/</a>
 
 ---
 

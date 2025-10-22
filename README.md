@@ -1,5 +1,5 @@
 ### I'm a Full-stack developer
-### Portfolio at: <a href="https://www.borgespedro.com.br/" target="_blank">https://borgespedro.com.br/</a>
+### <a href="https://www.borgespedro.com.br/" target="_blank">Click here to see my portfolio</a>
 
 ---
 

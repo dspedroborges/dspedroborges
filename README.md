@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Vite, Postman, Swagger, VSCode
+  💼 Tools: Vite, Postman, Swagger, VSCode
 </p>
 
 <p align="left">

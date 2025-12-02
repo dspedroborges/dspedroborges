@@ -12,10 +12,6 @@
   💼 Tools: Vite, Postman, Swagger, VSCode
 </p>
 
-<a href="https://www.borgespedro.com.br/" title="Portfolio">
-  <img src="https://img.shields.io/badge/portfolio-link-brightgreen?style=for-the-badge" alt="Portfolio"/>
-</a>
-
 <p align="left">
   💌 Contact me through the following links ⤵️
 </p>
@@ -27,5 +23,15 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dspedroborges/" alt="LinkedIn"/></a>
   <a href="http://wa.me/5561996524269" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=http://wa.me/5561996524269" alt="WhatsApp"/>
+</a>
+</p>
+
+<p align="left">
+  💌 And check my portfolio ⤵️
+</p>
+
+<p>
+  <a href="https://www.borgespedro.com.br/" title="Portfolio">
+  <img src="https://img.shields.io/badge/portfolio-link-brightgreen?style=for-the-badge" alt="Portfolio"/>
 </a>
 </p>

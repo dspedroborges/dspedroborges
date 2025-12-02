@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+    <a href="https://www.borgespedro.com.br/" title="Portfolio">
+  <img src="https://img.shields.io/badge/portfolio-link-brightgreen?style=for-the-badge" alt="Portfolio"/></a>
+
 <p align="left"> 
   Hi, my name is Pedro Borges and I'm a Fullstack Web Developer.
 </p>
@@ -17,8 +20,6 @@
 </p>
 
 <p align="left">
-    <a href="https://www.borgespedro.com.br/" title="Portfolio">
-  <img src="https://img.shields.io/badge/portfolio-link-brightgreen?style=for-the-badge" alt="Portfolio"/></a>
   <a href="mailto:xpedrostewart@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:xpedrostewart@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/dspedroborges/" title="LinkedIn">

@@ -1,25 +1,27 @@
-### I'm a Full-stack developer
-### <a href="https://www.borgespedro.com.br/" target="_blank">Click here to see my portfolio</a>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
----
+<p align="left"> 
+  Hi, my name is Pedro Borges and I'm a Fullstack Web Developer.
+</p>
 
-<div>
-<a href="https://github.com/dspedroborges">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dspedroborges&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="left">
+  🦄 Languages: **Node.js, Express.js, React.js and Tailwind.**
+</p>
 
----
+<p align="left">
+  💼 Ferramentas: **Vite, Postman, Swagger, VSCode**
+</p>
 
-<div style="display: inline_block; background-color: #fff; padding: 1rem; border-radius: 1rem"><br>
-  <img align="center" alt="Pedro-HTML" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="Pedro-CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Pedro-Tailwind" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Pedro-Javascript" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Pedro-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-ReactNative" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg">
-  <img align="center" alt="Pedro-NodeJS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Pedro-Express" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Pedro-NextJS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Pedro-Go" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/go/go-plain.svg">
-</div>
+<p align="left">
+  💌 Contact me through the following links ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:xpedrostewart@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/dspedroborges/)" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=[API-DO-SEU-WHATSAPP](http://wa.me/5561996524269)" alt="WhatsApp"/></a>
+</a>
+</p>

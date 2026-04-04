@@ -9,7 +9,7 @@ Web developer focused on building modern applications, with experience in both f
 | Category        | Technologies                       |
 |----------------|------------------------------------|
 | Frontend       | React.js, Svelte.js, HTML, CSS, Tailwind      |
-| Backend        | Node.js, Bun.js, Express.js, Elysia.js                |
+| Backend        | Node.js, Bun.js, Express.js, Nest.js, Elysia.js                |
 | Languages      | JavaScript, TypeScript             |
 | Databases      | SQLite, PostgreSQL, Prisma, Drizzle, Kysely                |
 | Tools          | Git, Docker, Bash, Linux            |

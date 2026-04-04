@@ -1,37 +1,26 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"/>
+# Pedro — Web Developer
 
-<p align="left"> 
-  Hi, my name is Pedro Borges and I'm a Fullstack Web Developer.
-</p>
+Web developer focused on building modern applications, with experience in both frontend and backend using JavaScript and TypeScript.
 
-<p align="left">
-  🦄 Languages: Node.js, Express.js, React.js and Tailwind.
-</p>
+---
 
-<p align="left">
-  💼 Tools: Vite, Postman, Swagger, VSCode
-</p>
+## Tech Stack
 
-<p align="left">
-  💌 Contact me through the following links ⤵️
-</p>
+| Category        | Technologies                       |
+|----------------|------------------------------------|
+| Frontend       | React.js, Svelte.js, HTML, CSS, Tailwind      |
+| Backend        | Node.js, Bun.js, Express.js, Elysia.js                |
+| Languages      | JavaScript, TypeScript             |
+| Databases      | SQLite, PostgreSQL, Prisma, Drizzle, Kysely                |
+| Tools          | Git, Docker, Bash, Linux            |
+| Others         | REST APIs, CI/CD, Web Security     |
 
-<p align="left">
-  <a href="mailto:xpedrostewart@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:xpedrostewart@gmail.com" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/dspedroborges/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dspedroborges/" alt="LinkedIn"/></a>
-  <a href="http://wa.me/5561996524269" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=http://wa.me/5561996524269" alt="WhatsApp"/>
-</a>
-</p>
+---
 
-<p align="left">
-  💌 And check my portfolio ⤵️
-</p>
+## Contact
 
-<p>
-  <a href="https://www.borgespedro.com.br/" title="Portfolio">
-  <img src="https://img.shields.io/badge/portfolio-link-brightgreen?style=for-the-badge" alt="Portfolio"/>
-</a>
-</p>
+- Email: xpedrostewart@gmail.com  
+- WhatsApp: +55 (61) 9 9652-4269   
+- Website/Portfolio: https://borgespedro.com.br
+- LinkedIn: https://linkedin.com/in/dspedroborges  
+---
